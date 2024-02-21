@@ -13,5 +13,6 @@ Scrivi un programma che stampi in console i numeri da 1 a 100, ma che per i mult
 
 
 # Tools
-- const
+- let
 - for number 1/100
+- if/else
