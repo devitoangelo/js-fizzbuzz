@@ -3,6 +3,7 @@ Scrivi un programma che stampi in console i numeri da 1 a 100, ma che per i mult
 
 
 # steps
+- facciamo una lista che va da 1 a 100
 - stampiamo i numeri da 1 a 100
 - per i multipli di 3 stampa fizz al posto del numero
 - per i multipli di 5 stampa Buzz al posto del nmero
@@ -12,3 +13,5 @@ Scrivi un programma che stampi in console i numeri da 1 a 100, ma che per i mult
 
 
 # Tools
+- const
+- for number 1/100
